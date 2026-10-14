@@ -1,0 +1,9 @@
+# prove, registri e uscite dei modelli (pesanti e non servono per giocare)
+out/
+briefs/
+*.log
+__pycache__/
+blender/*_v1.py
+blender/*.bak
+blender/props_B.py
+blender/props_B2.py
